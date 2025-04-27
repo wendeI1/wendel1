@@ -15,9 +15,7 @@
 - Lover of perfumes and strategy games like competitive Pokémon.
 
 ## 🛠️ Technologies and Tools
-- C | Python | Java | SQL
-- Git | GitHub
-- Linux | Windows
+- C | Python | SQL
 
 ## 📈 Objectives
 - Deepen my knowledge in Software Engineering.
