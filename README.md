@@ -1,13 +1,13 @@
-# 👋 Hello there! I'm Wendel!
+# 👋 Hello there! I'm Wendel
 
-🎓 Computer Science student.  
+🎓 Computer Science student | Systems Development Technician from ETEC.  
 💻 Learning the basics of programming with C, Python, and SQL.
 
 ## 🛠️ Skills
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.icons8.com/fluency/48/000000/c-programming.png)
+![Python](https://img.icons8.com/fluency/48/000000/python.png)
+![SQL](https://img.icons8.com/fluency/48/000000/database.png)
 
 ## 📚 Currently learning
 - Software development basics
@@ -17,5 +17,4 @@
 ---
 
 > "Step by step, building strong foundations."
-
 
