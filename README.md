@@ -28,4 +28,4 @@
 
 ---
 
-[![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
+[![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/wenedl1)
