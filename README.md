@@ -1,31 +1,21 @@
-# 👋 Hello there! I'm Wendel
+# 👋 Hello there! I'm Wendel!
 
-🎓 Computer Science student at Braz Cubas University.
+🎓 Computer Science student.  
+💻 Learning the basics of programming with C, Python, and SQL.
 
-🛠️ Focused on Software Engineering and robust systems development.
+## 🛠️ Skills
 
-💻 Currently programming in C, Python, Java and SQL.
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-🧠 Always looking to learn more and improve my technical knowledge.
-
-## 🚀 About me
-- Computer Technician from ETEC.
-- Passionate about creating efficient and secure systems.
-- Working on projects such as a student grade management system in C.
-- Lover of perfumes and strategy games like competitive Pokémon.
-
-## 🛠️ Technologies and Tools
-- C | Python | SQL
-
-## 📈 Objectives
-- Deepen my knowledge in Software Engineering.
-- Contribute to open-source projects.
-- Develop innovative and high-quality solutions.
+## 📚 Currently learning
+- Software development basics
+- Programming logic
+- Database fundamentals
 
 ---
 
-> "Discipline, passion and solid principles guide me with every line of code."
+> "Step by step, building strong foundations."
 
----
 
-[![Wendel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/wenedl1)
